@@ -1,0 +1,2 @@
+cin>>a:scanf와 동일, <iostream>헤더에 존제.
+
